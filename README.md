@@ -7,6 +7,7 @@
 
 2. 디렉토리리 구조
 
+`
 seb42_pre_030(FE)
 ├── package-lock.json
 ├── package.json
@@ -58,7 +59,7 @@ seb42_pre_030(FE)
     │       └── Sidebar.jsx
     ├── index.css
     └── index.js
-
+`
 
 3. 설치 방법(FE)
 터미널에 `$npm install` 설치 후
