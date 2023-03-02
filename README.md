@@ -7,59 +7,60 @@
 
 2. 디렉토리리 구조
 
-`
-seb42_pre_030(FE)
+
 ├── package-lock.json
 ├── package.json
 ├── public
-└── src
-    ├── App.css
-    ├── App.js
-    ├── Pages
-    │   ├── AnswerQuestionLoginPage.jsx
-    │   ├── AnswerQuestionUnLoginPage.jsx
-    │   ├── HomeLoginPage.jsx
-    │   ├── HomeUnLoginPage.jsx
-    │   ├── LoginPage.jsx
-    │   ├── QuestionSubmitPage.jsx
-    │   ├── SignUpPage.jsx
-    │   └── UserInfoPage.jsx
-    ├── assets
-    │   ├── IMG
-    │   └── styles
-    │       ├── GlobalStyle.js
-    │       └── variable.css
-    ├── components
-    │   ├── main
-    │   │   ├── AnswerQuestion.jsx
-    │   │   ├── QuestionList.jsx
-    │   │   ├── QuestionSubmit.jsx
-    │   │   └── UserInfo.jsx
-    │   ├── modules
-    │   │   ├── AnswerQuestions
-    │   │   │   ├── AnswerForm.jsx
-    │   │   │   ├── AnswerZone.jsx
-    │   │   │   ├── QuestionHeader.jsx
-    │   │   │   └── QuestionZone.jsx
-    │   │   ├── LoginForm.jsx
-    │   │   ├── QuestionLists
-    │   │   │   ├── BigTitle.jsx
-    │   │   │   ├── QListWrapper.jsx
-    │   │   │   └── Questions.jsx
-    │   │   ├── QuestionSubmits
-    │   │   │   ├── QuestionNoticeBox.jsx
-    │   │   │   └── QuestionWriteForm.jsx
-    │   │   ├── ReCAPTCHA.jsx
-    │   │   ├── SignupForm.jsx
-    │   │   └── UserInfo.jsx
-    │   └── template
-    │       ├── Footer.jsx
-    │       ├── Header.jsx
-    │       ├── HeaderWithLogin.jsx
-    │       └── Sidebar.jsx
-    ├── index.css
-    └── index.js
-`
+├── src
+│   ├── App.css
+│   ├── App.js
+│   ├── Pages                            메인+헤더+푸터+사이드바를 합친 페이지
+│   │   ├── AnswerQuestionLoginPage.jsx
+│   │   ├── AnswerQuestionUnLoginPage.jsx
+│   │   ├── HomeLoginPage.jsx
+│   │   ├── HomeUnLoginPage.jsx
+│   │   ├── LoginPage.jsx
+│   │   ├── QuestionSubmitPage.jsx
+│   │   ├── SignUpPage.jsx
+│   │   └── UserInfoPage.jsx
+│   ├── assets                            이미지및스타일
+│   │   ├── IMG
+│   │   ├── IMGS
+│   │   └── styles
+│   │       ├── GlobalStyle.js
+│   │       └── variable.css
+│   ├── components
+│   │   ├── main                          메인에 들어갈 내용
+│   │   │   ├── AnswerQuestion.jsx
+│   │   │   ├── QuestionList.jsx
+│   │   │   ├── QuestionSubmit.jsx
+│   │   │   └── UserInfo.jsx
+│   │   ├── modules                       메인을 구성하는 모듈모음
+│   │   │   ├── AnswerQuestions
+│   │   │   │   ├── AnswerForm.jsx
+│   │   │   │   ├── AnswerZone.jsx
+│   │   │   │   ├── QuestionHeader.jsx
+│   │   │   │   └── QuestionZone.jsx
+│   │   │   ├── LoginForm.jsx            
+│   │   │   ├── QuestionLists             
+│   │   │   │   ├── BigTitle.jsx
+│   │   │   │   ├── QListWrapper.jsx
+│   │   │   │   └── Questions.jsx
+│   │   │   ├── QuestionSubmits
+│   │   │   │   ├── QuestionNoticeBox.jsx
+│   │   │   │   └── QuestionWriteForm.jsx
+│   │   │   ├── ReCAPTCHA.jsx
+│   │   │   ├── SignupForm.jsx
+│   │   │   └── UserInfo.jsx
+│   │   └── template                       푸터,헤더,사이드바 모음
+│   │       ├── Footer.jsx
+│   │       ├── Header.jsx
+│   │       ├── HeaderWithLogin.jsx
+│   │       └── Sidebar.jsx
+│   ├── index.css
+│   └── index.js
+└── tree.txt
+
 
 3. 설치 방법(FE)
 터미널에 `$npm install` 설치 후
