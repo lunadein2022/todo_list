@@ -12,6 +12,17 @@
 5. 멤버소개
 
 6. 기술스택
+
+FRONTEND
+<div>
+	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
+	<img src="https://img.shields.io/badge/StyledComponent-DB7093?style=flat&logo=StyledComponent&logoColor=white" />
+	<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white" />
+	<img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=Prettier&logoColor=white" />
+	<img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=ESLint&logoColor=white" />
+</div>
+
+BACKEND
 <div>
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 	<img src="https://img.shields.io/badge/StyledComponent-DB7093?style=flat&logo=StyledComponent&logoColor=white" />
