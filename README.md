@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Viva-StackOverFlow&fontSize=90" />
+![--logo--viva--black](https://user-images.githubusercontent.com/115081038/222404385-aaede62f-fdff-459b-8658-b51895c823f3.png)
 </p>
 
 
