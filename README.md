@@ -38,6 +38,7 @@ BACKEND
 	<img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=ESLint&logoColor=white" />
 </div>
 
-7. 구현 화면
+7. 구현 화면<img width="1364" alt="스크린샷 2023-03-02 오후 1 45 58" src="https://user-images.githubusercontent.com/115081038/222333832-a8d9eda7-43da-4b2e-8995-b9a5dc6ecaa5.png">
+
 
 8. 역할
