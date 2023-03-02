@@ -5,7 +5,7 @@
 배포링크 : 
 
 
-2. 디렉토리리 구조
+2. 디렉토리 구조
 
 
 <img width="567" alt="스크린샷 2023-03-02 오후 2 12 57" src="https://user-images.githubusercontent.com/115081038/222337101-4803f536-26b2-47c0-bda4-529929ba14e5.png">
