@@ -4,13 +4,69 @@
 스택오버플로우 클론 코딩
 배포링크 : 
 
+
 2. 디렉토리리 구조
 
+seb42_pre_030(FE)
+├── package-lock.json
+├── package.json
+├── public
+└── src
+    ├── App.css
+    ├── App.js
+    ├── Pages
+    │   ├── AnswerQuestionLoginPage.jsx
+    │   ├── AnswerQuestionUnLoginPage.jsx
+    │   ├── HomeLoginPage.jsx
+    │   ├── HomeUnLoginPage.jsx
+    │   ├── LoginPage.jsx
+    │   ├── QuestionSubmitPage.jsx
+    │   ├── SignUpPage.jsx
+    │   └── UserInfoPage.jsx
+    ├── assets
+    │   ├── IMG
+    │   └── styles
+    │       ├── GlobalStyle.js
+    │       └── variable.css
+    ├── components
+    │   ├── main
+    │   │   ├── AnswerQuestion.jsx
+    │   │   ├── QuestionList.jsx
+    │   │   ├── QuestionSubmit.jsx
+    │   │   └── UserInfo.jsx
+    │   ├── modules
+    │   │   ├── AnswerQuestions
+    │   │   │   ├── AnswerForm.jsx
+    │   │   │   ├── AnswerZone.jsx
+    │   │   │   ├── QuestionHeader.jsx
+    │   │   │   └── QuestionZone.jsx
+    │   │   ├── LoginForm.jsx
+    │   │   ├── QuestionLists
+    │   │   │   ├── BigTitle.jsx
+    │   │   │   ├── QListWrapper.jsx
+    │   │   │   └── Questions.jsx
+    │   │   ├── QuestionSubmits
+    │   │   │   ├── QuestionNoticeBox.jsx
+    │   │   │   └── QuestionWriteForm.jsx
+    │   │   ├── ReCAPTCHA.jsx
+    │   │   ├── SignupForm.jsx
+    │   │   └── UserInfo.jsx
+    │   └── template
+    │       ├── Footer.jsx
+    │       ├── Header.jsx
+    │       ├── HeaderWithLogin.jsx
+    │       └── Sidebar.jsx
+    ├── index.css
+    └── index.js
+
+
 3. 설치 방법(FE)
+터미널에 `$npm install` 설치 후
+`$npm run start`로 로컬서버 실행
+
 4. 설치 방법(BE)
 
 5. 멤버소개
-
 
 |Back|Front|
 |-----|-----|
@@ -38,7 +94,11 @@ BACKEND
 	<img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=ESLint&logoColor=white" />
 </div>
 
-7. 구현 화면<img width="1364" alt="스크린샷 2023-03-02 오후 1 45 58" src="https://user-images.githubusercontent.com/115081038/222333832-a8d9eda7-43da-4b2e-8995-b9a5dc6ecaa5.png">
+7. 구현 화면
+
+|랜딩페이지 (질문리스트)|질문 작성|질문상세 + 답변작성|
+||||
+|
 
 
 8. 역할
