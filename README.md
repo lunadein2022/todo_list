@@ -1,6 +1,6 @@
-<p align="center"> 
+
 ![--logo--viva--black](https://user-images.githubusercontent.com/115081038/222404385-aaede62f-fdff-459b-8658-b51895c823f3.png)
-</p>
+
 
 
 
