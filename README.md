@@ -1,4 +1,8 @@
+<p align="center"> 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Viva-StackOverFlow&fontSize=90" />
+</p>
+
+
 
 ## 1. 프로젝트명: Viva-StackOverFlow
 스택오버플로우 클론 코딩
